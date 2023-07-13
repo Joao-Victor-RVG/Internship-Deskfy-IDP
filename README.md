@@ -1,12 +1,16 @@
 # Deskfy - Plano de desenvolvimento Individual (PDI)
 
+<figure>
+
+  <img src="logo_deskfy.jpg" alt="logo_deskfy.jpg">
+
 <br>
 
 Olá, seja bem-vindo ao meu repositório do meu plano de desenvolvimento individual de estágio na startup brasileira Deskfy, abaixo você verá tudo o que foi feito e estudado durante esse (PDI)
 
 <br>
 
-Hello, welcome to my repository of my individual internship development plan at the Brazilian startup Deskfy, below you will see everything that was done and studied during this (IDP)
+Hello, welcome to  the repository of my internship development plan at the Brazilian startup Deskfy,  you will see everything that was done and studied during this (IDP)
 
 <br>
 
