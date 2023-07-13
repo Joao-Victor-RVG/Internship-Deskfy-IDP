@@ -1,0 +1,41 @@
+h1{
+    background-color: brown;
+}
+
+h2{
+    background-color: green;
+    margin-top: 56px;
+}
+.titleTwo{
+    background-color: green;
+}
+
+
+.superParagraph{
+    background-color: orange;
+}
+
+p{
+    background-color: gray;
+}
+
+.size{
+    width: 50%;
+    height: 100px;
+}
+
+.padding{
+    padding: 26px;
+
+}
+
+.margin{
+    margin: 50px 0 20px 0 100px;
+}
+
+.border{
+    border-top: 10px solid O#287 cac; border-right: 10px dotted Ored; border-bottom: 10px dashed blue; border-left: 30px groove green;
+    border: 10px solid red;
+    padding: 10px;
+}
+

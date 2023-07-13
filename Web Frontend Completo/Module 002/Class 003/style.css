@@ -1,0 +1,29 @@
+body{
+
+    background-color: aqua;
+
+}
+
+/* css with html tag */
+
+h1{
+
+    align-items: center;
+}
+
+
+
+/* css with class */
+.firstParagraph{
+
+    background-color: azure;
+
+}
+
+
+/* css with id */
+#title{
+    color: red;
+}
+
+

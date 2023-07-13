@@ -1,0 +1,35 @@
+h1{
+    background-color: brown;
+}
+
+h2{
+    background-color: green;
+    margin-top: 56px;
+}
+.titleTwo{
+    background-color: green;
+}
+
+
+.superParagraph{
+    background-color: orange;
+}
+
+p{
+    background-color: gray;
+}
+
+.size{
+    width: 50%;
+    height: 100px;
+}
+
+.padding{
+    padding: 26px;
+
+}
+
+.margin{
+    margin: 50px 0 20px 0 100px;
+}
+
