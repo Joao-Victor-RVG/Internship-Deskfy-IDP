@@ -59,7 +59,7 @@ The objective of this individual development plan is to accelerate my learning i
 
 [Supervisor de Estágio na Deskfy / Internship Supervisor at Deskfy CTO (Lucas Maia Braum)](https://br.linkedin.com/in/lucasbraum?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
-[Empresa / Company Deskfy.io](deskfy.io)
+[Empresa / Company Deskfy.io](https://deskfy.io/)
 
 
 
