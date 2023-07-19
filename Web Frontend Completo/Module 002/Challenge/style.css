@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(175, 171, 177);
+}
+
+.name{
+    background-color: rgb(203, 139, 241);
+    align-items: center;
+    text-align: center;
+}
+
+.status{
+    text-align: center;
+}
+
+.goals {
+    background-color: grey;
+    border-bottom: 3px solid black;
+}
+
+.experience{
+    background-color: grey;
+    border-bottom: 3px solid black;
+}
+
+.companyName{
+    color: blue;
+}
+
+.college {
+    background-color: grey;
+    border-bottom: 3px solid black;
+}
+
+.curses{
+    background-color: grey;
+    border-bottom: 3px solid black;
+}
+
+.div{
+        margin-left: auto;
+        margin-right: auto;
+        width: 1200px;
+      }
+      
+
